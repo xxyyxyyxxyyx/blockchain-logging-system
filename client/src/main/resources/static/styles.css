@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #09427c !important;
+}
+.sidebar {
+  height: 1000px;
+}
+.sidemenu {
+  /* border: 2px solid gray; */
+  padding: 0px;
+  background-color: #1e61a3 !important;
+}
+.sidemenu a {
+  color: #fff;
+}
+.nav-pills .nav-link {
+  border-radius: 0;
+}
+#log-form {
+  padding: 10px;
+}
+.log-result {
+  padding: 10px;
+  margin: 10px;
+}
+
+.logs {
+  margin-bottom: 10px;
+}
