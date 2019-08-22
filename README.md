@@ -18,3 +18,6 @@ The table below shows the design of APIs that will be exposed only for testing p
 | --- | --- | --- | --- |
 | DELETE | /api/logs/{application} | Delete | Deletes log entry from state database |
 | DELETE | /api/peers/{number} | Delete | Deletes number of Peer node from the network |
+
+
+The RESTful Webservice is available at 139.162.25.236:8080/{Path of the API}
